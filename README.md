@@ -5,7 +5,8 @@ tmux steps
 -------------------
 
 ```
-apt install tmux
+sudo apt update -y
+sudo apt install tmux -Y
 ```
 
 # type tmux first terminal
@@ -25,11 +26,11 @@ ctrl+b  "
 
 # siwtch between window
 -----------------------
+```
+ctrl+b   <--  
 
-ctrl+b   <--  left arrow
-
-ctrl+b   -->  right arrow
-
+ctrl+b   -->  
+```
 # rename window
 --------------
 ```
