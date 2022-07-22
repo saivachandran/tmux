@@ -1,5 +1,4 @@
-tmux steps
--------------
+
 
 # tmux installation
 -------------------
